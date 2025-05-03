@@ -1,6 +1,8 @@
 # DSC-140S-Final-Project
 This repository will include the report on MLB 2023-2024 Rookie Pitcher Statistics and the python workbook used to get my findings. I chose this data set because I am a baseball player myself and enjoy looking through stats.
 
+https://www.baseball-reference.com/leagues/majors/2024-rookies.shtml#all_misc_pitching
+
 In the python workbook is where you will find my code. I used this code to explore the data set and answer my questions.
 
 Questions:
